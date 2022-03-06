@@ -36,7 +36,7 @@ import java.util.HashMap;
  */
 
 public class LeetCode_70 {
-    public HashMap<Integer, Integer> map = new HashMap<>();
+    private final HashMap<Integer, Integer> map = new HashMap<>();
 
     public int climbStairs(int n) {
         if (n == 1) {

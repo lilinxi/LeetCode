@@ -20,7 +20,7 @@ package 二分查找;
  *
  * 你可以假设 nums 中的所有元素是不重复的。
  * n 将在 [1, 10000]之间。
- * nums 的每个元素都将在 [-9999, 9999]之间。
+ * nums 的每个元素都将在 [-9999, 9999]之   间。
  *
  * 来源：力扣（LeetCode）
  * 链接：https://leetcode-cn.com/problems/binary-search
